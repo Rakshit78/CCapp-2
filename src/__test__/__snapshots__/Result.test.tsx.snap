@@ -1,0 +1,176 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Result test Result renders without crash 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+        style="width: 100vw; height: 100vh; display: grid; place-items: center;"
+      >
+        <div
+          class="MuiContainer-root MuiContainer-maxWidthSm css-cuefkz-MuiContainer-root"
+          style="background: rgb(165, 165, 165); border-radius: 14px; padding: 20px;"
+        >
+          <button
+            class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+            role="retake"
+            tabindex="0"
+            type="button"
+          >
+            Retake
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+          <h4
+            class="MuiTypography-root MuiTypography-h4 css-5lbw0b-MuiTypography-root"
+          >
+            Hey!! 
+             you got 
+            0
+            %
+          </h4>
+          <svg
+            height="100%"
+            style="width: 100px;"
+            viewBox="0 0 100 100"
+            width="100%"
+          >
+            <path
+              d=""
+              fill="none"
+              stroke="#E38627"
+              stroke-width="50"
+            >
+              <title>
+                One
+              </title>
+            </path>
+            <path
+              d="M 75 50 A 25 25 0 1 1 74.99999999619229 49.99956366768703"
+              fill="none"
+              stroke="#C13C37"
+              stroke-width="50"
+            >
+              <title>
+                Two
+              </title>
+            </path>
+          </svg>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+      style="width: 100vw; height: 100vh; display: grid; place-items: center;"
+    >
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthSm css-cuefkz-MuiContainer-root"
+        style="background: rgb(165, 165, 165); border-radius: 14px; padding: 20px;"
+      >
+        <button
+          class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+          role="retake"
+          tabindex="0"
+          type="button"
+        >
+          Retake
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+        <h4
+          class="MuiTypography-root MuiTypography-h4 css-5lbw0b-MuiTypography-root"
+        >
+          Hey!! 
+           you got 
+          0
+          %
+        </h4>
+        <svg
+          height="100%"
+          style="width: 100px;"
+          viewBox="0 0 100 100"
+          width="100%"
+        >
+          <path
+            d=""
+            fill="none"
+            stroke="#E38627"
+            stroke-width="50"
+          >
+            <title>
+              One
+            </title>
+          </path>
+          <path
+            d="M 75 50 A 25 25 0 1 1 74.99999999619229 49.99956366768703"
+            fill="none"
+            stroke="#C13C37"
+            stroke-width="50"
+          >
+            <title>
+              Two
+            </title>
+          </path>
+        </svg>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
